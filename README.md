@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently **Cyber Security Student at Computers & Artificial Intelligence - BFCAI, Benha University 💻** .
 
-- 🌱 I’m currently learning **learning Machine Learning and SOC analysis and Networking Security**.
+- 🌱 I’m currently learning **Machine Learning and SOC analysis and Networking Security**.
 
 - 📫 How to reach me **[Link tree](https://linktr.ee/0xkillua)**
 
