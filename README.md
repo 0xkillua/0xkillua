@@ -5,11 +5,13 @@
 
 <br>
 
-## 🙋‍♂️ About Me:
+##  About Me:
 
 - 🔭 I’m currently **Cyber Security Student at Computers & Artificial Intelligence - BFCAI, Benha University 💻** .
 
-- 🌱 I’m currently learning **CTIA,ECIR**.
+- 🌱 I’m currently learning **learning Machine Learning and SOC analysis and Networking Security**.
+
+-📫 How to reach me **[Link tree](https://linktr.ee/0xkillua)**
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/0xkillua?tab=repositories)**.
 
